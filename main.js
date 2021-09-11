@@ -4,7 +4,7 @@ $(document).ready(function () {
 
         render: function () {
 
-            this.show();
+            this.show(); 
             this.addItem();
             this.clickItem();
             this.removeItem();
