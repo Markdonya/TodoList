@@ -1,2 +1,2 @@
 # TodoList
-Example of Todo list for students
+An example of Todo list for students
