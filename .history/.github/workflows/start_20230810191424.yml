@@ -1,0 +1,4 @@
+name: start demo
+on: pull_request
+    jobs: 
+    

@@ -1,0 +1,7 @@
+name: start demo
+on: pull_request
+jobs:
+  runs:
+    defaults:
+      run:
+        working-directory: echo FGFGFFFF

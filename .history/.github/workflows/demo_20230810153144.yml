@@ -1,0 +1,11 @@
+name: Demo workflow
+on: push
+jobs:
+  print:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: It's an example for students
+        run: echo Hi, Guys!
+      
+      
+  
