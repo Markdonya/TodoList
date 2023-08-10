@@ -1,5 +1,5 @@
 name: Demo workflow
-on:push
+on: push
 jobs:
   print:
     runs-on: ubuntu-20.04
